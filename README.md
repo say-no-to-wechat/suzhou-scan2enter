@@ -4,6 +4,9 @@
 
 This guy is publishing another project. It doesn't seem to make sense, but anyway, I'm sharing it to you. 
 
-<http://tYWE.xvddpwiirgbw.cyou/>
+<https://codeberg.org/suzhou-very-healthy>
 
+----
+
+This project has been abandoned and this account will be permanently deleted to protect information security. Good luck.
 
